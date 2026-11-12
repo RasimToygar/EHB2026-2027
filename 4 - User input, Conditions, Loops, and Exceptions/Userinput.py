@@ -1,0 +1,5 @@
+username = input("Wat is uw naam? ")
+print("Uw naam is:", username)
+print("Type van de variabele username is:", type(username))
+age = input("Wat is uw leeftijd? ")
+print("Type van de variabele age is:", type(age))
