@@ -33,3 +33,9 @@ at Erasmus University College Brussels.
 
 This repository documents my learning progress and
 development as a Python programmer.
+
+## Learning goals
+
+Through these exercises, I aim to improve my programming skills,
+understand Python fundamentals and develop problem-solving abilities.
+
